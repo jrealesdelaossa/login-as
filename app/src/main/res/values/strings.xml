@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Login</string>
+    <string-array name="Genero">
+        <item>- - -</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
 </resources>
